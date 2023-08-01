@@ -1,0 +1,11 @@
+{
+    "name": "Cricket Live Extension",
+    "version": "1.0.0",
+    "description": "This Chrome Extension gives information about the Live Cricket Matches",
+    "manifest_version": 3,
+    "author": "Ketan Singh",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Cricket Live Extension"
+    }
+}

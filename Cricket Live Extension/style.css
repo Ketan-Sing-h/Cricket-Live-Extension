@@ -1,0 +1,10 @@
+#heading{
+    font-size: larger;
+}
+body{
+    width: 250px;
+    background-image: linear-gradient(to bottom right,rgb(170, 248, 255),rgb(194, 255, 168));
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Handjet', cursive;
+    font-family: 'Nunito', sans-serif;
+}

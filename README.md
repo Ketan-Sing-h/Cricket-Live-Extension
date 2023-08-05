@@ -1,6 +1,6 @@
-# Live Cricket Extension for Google Chrome
+# <p align="center">Live Cricket Extension for Google Chrome</p>
 
-**This extension seamlessly integrates the "CricketData API" to offer users a convenient way to stay updated with live cricket scores, player profiles, and match schedules, all within their Google Chrome browser.**
+### This extension seamlessly integrates the "CricketData API" to offer users a convenient way to stay updated with live cricket scores, player profiles, and match schedules, all within their Google Chrome browser.
 
 ## Key Features
 - **Real-time Cricket Insights:** The extension fetches and displays real-time cricket match information and statistics through the integration of the CricketData API.
